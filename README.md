@@ -1,4 +1,6 @@
 # Minesweeper
-Python based Minesweeper Game with built-in GUI.
+A classic Minesweeper game using Tkinter, featuring dynamic boards and interactive gameplay.
 
-This project is a simple python based Minesweeper Game with a proper interface and difficulty levels to make it more engaging. Utilized python packages like tkinter for the GUI, random for the mines placement, and sys to maintain certain variables with the help of interpreter. The player gets to choose a difficulty at the start of the game, then play the game, reset board, go to difficulty menu again or quit. These makes the game more interesting and fun.
+Abstract :- The Minesweeper game, created with Tkinter, challenges players to reveal cells on a grid while avoiding hidden mines. It features dynamic board generation and difficulty settings, with interactive elements for uncovering and marking cells. The interface provides clear feedback on game outcomes and offers options for restarting or exiting. The design ensures an engaging and user-friendly experience.
+
+Instructions :- To play the Minesweeper game, click on any cell to reveal its content. Cells may contain a number indicating nearby mines, be empty, or reveal a mine if clicked. Use right-clicks to flag suspected mines. The goal is to uncover all non-mine cells without triggering any mines. If you reveal a mine, the game ends. Successfully uncover all safe cells to win. Use the game’s interface options to restart or adjust difficulty levels as desired.
